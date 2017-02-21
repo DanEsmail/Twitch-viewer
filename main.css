@@ -1,0 +1,81 @@
+
+body{
+  background-color: #6441a4;
+}
+
+button{
+  margin-bottom: .5em;
+  color: white;
+  background-color: #2c3b98;
+  border-color: #1a2777;
+}
+
+.streamers{
+  position: relative;;
+  left: 40%;
+}
+
+
+
+img{
+  height: 100%;
+  width: 100%;
+}
+.box
+{
+  display: inline-block;
+    width: 30%;
+    height: 100%;
+  vertical-align: top;
+    border-style: solid;
+}
+
+.info{
+  text-align: center;
+}
+
+.test-box{
+  margin-top: 20px;
+  height: 110px;
+  width: 600px;
+  text-align: center;
+}
+
+.test-box *{
+  border-color: black;
+}
+
+.offline *{
+  background: #A80004;
+  color: white;
+}
+
+.offline p{
+  margin-top: 45px;
+}
+
+.offine h3{
+  margin-top: 45px;
+}
+
+.online *{
+  background: #01E500;
+  color: white;
+}
+
+.online .status p{
+  margin-top: 45px;
+}
+
+.closed *{
+  background: grey;
+  color: white;
+}
+
+.closed p{
+  margin-top: 45px;
+}
+
+.closed h3{
+  margin-top: 45px;
+}

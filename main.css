@@ -1,20 +1,32 @@
 
 body{
   background-color: #6441a4;
+  text-align: center;
 }
 
 button{
   margin-bottom: .5em;
   color: white;
-  background-color: #2c3b98;
-  border-color: #1a2777;
+  background-color: #4552A5;
+  border-color: #2C3B98;
 }
 
 .streamers{
-  position: relative;;
-  left: 40%;
+  margin-bottom: 20px;
 }
 
+#twitch-img{
+  height: 50px;
+  width: 50px;
+}
+
+.font{
+  color: white;
+}
+
+.color{
+  background-color: pink;
+}
 
 
 img{
